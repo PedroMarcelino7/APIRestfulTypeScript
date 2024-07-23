@@ -5,7 +5,7 @@ const app = express()
 
 app.use(express.json())
 
-const port = 3000
+const port = config.get<number>('port')
 
 app.listen(port, async () => {
     console.log(`Application running on port: ${port}`)
