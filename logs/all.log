@@ -1,0 +1,30 @@
+2024-07-23 21:04:25:425 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:05:19:519 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:05:38:538 - [34minfo[39m: [34mConectou[39m
+2024-07-23 21:05:38:538 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:05:58:558 - [34minfo[39m: [34mConectou[39m
+2024-07-23 21:05:58:558 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:06:03:63 - [34minfo[39m: [34mConectou[39m
+2024-07-23 21:06:03:63 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:06:10:610 - [31merror[39m: [31mError -  querySrv ENOTFOUND _mongodb._tcp.cluster0.mcamft.mongodb.net[39m
+2024-07-23 21:06:10:610 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:06:15:615 - [34minfo[39m: [34mConectou[39m
+2024-07-23 21:06:15:615 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:06:23:623 - [32minfo[39m: [32mConectou[39m
+2024-07-23 21:06:23:623 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-23 21:06:59:659 - [32minfo[39m: [32mConectou[39m
+2024-07-23 21:06:59:659 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-23 21:07:03:73 - [32minfo[39m: [32mConectou[39m
+2024-07-23 21:07:03:73 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-23 21:07:05:75 - [32minfo[39m: [32mConectou[39m
+2024-07-23 21:07:05:75 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-23 21:07:11:711 - [32minfo[39m: [32mConectou[39m
+2024-07-23 21:07:11:711 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-23 21:07:14:714 - [32minfo[39m: [32mConectou[39m
+2024-07-23 21:07:14:714 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-23 21:07:17:717 - [34minfo[39m: [34mConectou[39m
+2024-07-23 21:07:17:717 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:07:25:725 - [32msucc[39m: [32mConectou[39m
+2024-07-23 21:07:25:725 - [34minfo[39m: [34mApplication running on port: 3000[39m
+2024-07-23 21:09:47:947 - [32minfo[39m: [32mConectou[39m
+2024-07-23 21:09:47:947 - [32minfo[39m: [32mApplication running on port: 3000[39m
