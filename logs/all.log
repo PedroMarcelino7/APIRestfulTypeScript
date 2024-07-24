@@ -211,3 +211,37 @@
 2024-07-24 15:23:41:2341 - [31merror[39m: [31mError: [39m
 2024-07-24 15:23:49:2349 - [35mhttp[39m: [35mGET /api/movie/66a13096f7647d6889b765f - - - - ms[39m
 [35m[39m
+2024-07-24 15:24:48:2448 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:24:48:2448 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:24:51:2451 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:24:51:2451 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:24:55:2455 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:24:55:2455 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:24:58:2458 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:24:58:2458 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:04:254 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:04:254 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:05:255 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:05:255 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:08:258 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:08:258 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:11:2511 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:11:2511 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:21:2521 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:21:2521 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:35:2535 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:35:2535 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:37:2537 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:37:2537 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:46:2546 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:46:2546 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:49:2549 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:49:2549 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:25:59:2559 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:25:59:2559 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:26:03:263 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:26:03:263 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:26:24:2624 - [32minfo[39m: [32mConectou[39m
+2024-07-24 15:26:24:2624 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 15:26:51:2651 - [35mhttp[39m: [35mGET /api/movie 200 351 - 42.870 ms[39m
+[35m[39m
