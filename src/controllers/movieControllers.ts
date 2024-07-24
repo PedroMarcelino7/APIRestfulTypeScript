@@ -37,3 +37,20 @@ export async function getAllMovies(req: Request, res: Response) {
         Logger.error("Error: ", error.message)
     }
 }
+
+export async function removeMovie(req: Request, res: Response) {
+    try {
+        const id = req.params.id
+        const movie = await MovieModel.findById(id)
+
+        if (!movie) {
+            return res.status(404).json({ error: "Filme não encontrado." })
+        }
+
+        await movie.deleteOne()
+
+        return res.status(200).json({ msg: "Filme removido com sucesso!" })
+    } catch (error: any) {
+        Logger.error("Error: ", error.message)
+    }
+}
