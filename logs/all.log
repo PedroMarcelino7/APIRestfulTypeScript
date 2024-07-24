@@ -86,3 +86,9 @@
 2024-07-24 13:48:47:4847 - [32minfo[39m: [32mApplication running on port: 3000[39m
 2024-07-24 13:49:26:4926 - [35mhttp[39m: [35mPOST /api/movie 201 155 - 50.841 ms[39m
 [35m[39m
+2024-07-24 13:58:02:582 - [32minfo[39m: [32mConectou[39m
+2024-07-24 13:58:02:582 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 13:58:07:587 - [32minfo[39m: [32mConectou[39m
+2024-07-24 13:58:07:587 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-07-24 13:58:15:5815 - [32minfo[39m: [32mConectou[39m
+2024-07-24 13:58:15:5815 - [32minfo[39m: [32mApplication running on port: 3000[39m
